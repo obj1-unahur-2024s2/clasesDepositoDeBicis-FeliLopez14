@@ -18,3 +18,4 @@ class Morral {
     method esLuminoso() = tieneOjoDeGato
     method carga() = largo / 3
 }
+/*Para agregar un accesorio nuevo, deberiamos crear un objeto completamente nuevo, con todas sus propiedades y metodos propios.*/
